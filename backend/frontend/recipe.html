@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recipe Details</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🍳 Recipe Details</h1>
+    <nav>
+      <a href="index.html">Back to Home</a>
+    </nav>
+  </header>
+
+  <section class="single-recipe" id="recipeDetail">
+    <!-- Recipe details will be dynamically loaded -->
+  </section>
+
+  <script>
+    // Sample: getting recipe ID from URL
+    const recipeId = new URLSearchParams(window.location.search).get('id');
+    const recipes = JSON.parse(localStorage.getItem('recipes')) || [];
+    const recipe = recipes.find(r => r.id == recipeId);
+
+    const container = document.getElementById('recipeDetail');
+    if(recipe) {
+      container.innerHTML = `
+        <img src="${recipe.image}" alt="${recipe.title}" class="single-image">
+        <h2>${recipe.title}</h2>
+        <p><strong>Ingredients:</strong> ${recipe.ingredients}</p>
+        <p><strong>Steps:</strong> ${recipe.steps}</p>
+        <p>❤️ Likes: ${recipe.likes}</p>
+      `;
+    } else {
+      container.innerHTML = '<p>Recipe not found.</p>';
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,88 @@
+[
+  {
+    "title": "Margherita Pizza",
+    "imageUrl": "/Users/samyuktha/Desktop/Recipesharing/pizza.jpg",
+    "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "basil", "olive oil", "salt", "black pepper"],
+    "steps": ["Preheat oven to 475°F", "Roll out the pizza dough", "Spread tomato sauce", "Sprinkle mozzarella", "Add basil leaves", "Drizzle olive oil", "Season with salt and black pepper", "Bake for 12-15 minutes", "Slice and serve hot"]
+  },
+  {
+    "title": "Chocolate Cake",
+    "imageUrl": "https://images.unsplash.com/photo-1599785209798-7a9a8f4bb4e3?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["flour", "sugar", "cocoa powder", "eggs", "milk", "butter", "baking powder"],
+    "steps": ["Preheat oven to 350°F", "Mix dry ingredients", "Add wet ingredients", "Pour into pan", "Bake for 30-35 minutes", "Cool and serve"]
+  },
+  {
+    "title": "Kesari",
+    "imageUrl": "https://images.unsplash.com/photo-1601995978293-1c0f93628d99?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["semolina", "sugar", "ghee", "water", "saffron", "cardamom"],
+    "steps": ["Roast semolina in ghee", "Boil water with sugar", "Add semolina", "Cook until thick", "Add saffron and cardamom", "Serve hot"]
+  },
+  {
+    "title": "Pasta Primavera",
+    "imageUrl": "https://images.unsplash.com/photo-1601924571125-1e7a1d9e2aaf?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["pasta", "mixed vegetables", "olive oil", "garlic", "parmesan cheese", "basil", "salt", "black pepper"],
+    "steps": ["Cook pasta according to package instructions", "Sauté garlic in olive oil", "Add mixed vegetables and cook until tender", "Toss pasta with vegetables", "Sprinkle with parmesan cheese and basil", "Season with salt and black pepper", "Serve hot"]
+  },
+  {
+    "title": "Chicken Curry",
+    "imageUrl": "https://images.unsplash.com/photo-1601924571125-1e7a1d9e2aaf?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["chicken", "onion", "tomato", "garlic", "ginger", "curry powder", "coconut milk", "cilantro", "salt", "black pepper"],
+    "steps": ["Sauté onion, garlic, and ginger until fragrant", "Add chicken and cook until browned", "Add tomato and cook until soft", "Stir in curry powder", "Pour in coconut milk and simmer", "Season with salt and black pepper", "Garnish with cilantro", "Serve hot"]
+  },
+  {
+    "title": "Vegetable Stir Fry",
+    "imageUrl": "https://images.unsplash.com/photo-1601924571125-1e7a1d9e2aaf?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["mixed vegetables", "soy sauce", "ginger", "garlic", "sesame oil", "green onions", "sesame seeds"],
+    "steps": ["Heat sesame oil in a pan", "Sauté garlic and ginger until fragrant", "Add mixed vegetables and stir-fry until tender", "Pour in soy sauce and cook for another minute", "Garnish with green onions and sesame seeds", "Serve hot"]
+  },
+  {
+    "title": "Caesar Salad",
+    "imageUrl": "https://images.unsplash.com/photo-1601924571125-1e7a1d9e2aaf?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["romaine lettuce", "croutons", "parmesan cheese", "Caesar dressing"],
+    "steps": ["Toss lettuce with Caesar dressing", "Add croutons and parmesan cheese", "Serve immediately"]
+  },
+  {
+    "title": "Tom Yum Soup",
+    "imageUrl": "https://images.unsplash.com/photo-1601924571125-1e7a1d9e2aaf?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["shrimp", "lemongrass", "kaffir lime leaves", "galangal", "chilies", "fish sauce", "lime juice", "mushrooms", "coriander"],
+    "steps": ["Boil water with lemongrass, kaffir lime leaves, galangal, and chilies", "Add shrimp and cook until pink", "Stir in fish sauce and lime juice", "Add mushrooms and cook until tender", "Garnish with coriander", "Serve hot"]
+  },
+  {
+    "title": "Paneer Butter Masala",
+    "imageUrl": "https://images.unsplash.com/photo-1601924571125-1e7a1d9e2aaf?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["paneer", "butter", "onion", "tomato", "garlic", "ginger", "cream", "garam masala", "coriander", "salt", "black pepper"],
+    "steps": ["Sauté onion, garlic, and ginger in butter", "Add tomato and cook until soft", "Stir in garam masala", "Add cream and cook until thickened", "Add paneer and cook until heated through", "Season with salt and black pepper", "Garnish with coriander", "Serve hot"]
+  },
+  {
+    "title": "Fish Tacos",
+    "imageUrl": "https://images.unsplash.com/photo-1601924571125-1e7a1d9e2aaf?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["fish fillets", "taco shells", "cabbage", "lime", "cilantro", "sour cream", "hot sauce", "salt", "black pepper"],
+    "steps": ["Cook fish fillets until flaky", "Warm taco shells", "Shred cabbage", "Assemble tacos with fish, cabbage, and cilantro", "Drizzle with lime juice, sour cream, and hot sauce", "Season with salt and black pepper", "Serve immediately"]
+  },
+  {
+    "title": "Falafel",
+    "imageUrl": "https://images.unsplash.com/photo-1601924571125-1e7a1d9e2aaf?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["chickpeas", "onion", "garlic", "parsley", "cumin", "coriander", "baking powder", "flour", "salt", "oil for frying"],
+    "steps": ["Soak chickpeas overnight", "Blend chickpeas with onion, garlic, parsley, cumin, coriander, baking powder, and salt", "Form into balls and coat with flour", "Heat oil in a pan and fry falafel until golden brown", "Drain on paper towels", "Serve with tahini sauce"]
+  },
+  {
+    "title": "Beef Tacos",
+    "imageUrl": "https://images.unsplash.com/photo-1601924571125-1e7a1d9e2aaf?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["ground beef", "taco seasoning", "taco shells", "lettuce", "tomato", "cheese", "sour cream", "salsa"],
+    "steps": ["Cook ground beef with taco seasoning", "Warm taco shells", "Assemble tacos with beef, lettuce, tomato, cheese, sour cream, and salsa", "Serve immediately"]
+  },
+  {
+    "title": "Vegetable Soup",
+    "imageUrl": "https://images.unsplash.com/photo-1601924571125-1e7a1d9e2aaf?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["mixed vegetables", "vegetable broth", "onion", "garlic", "herbs", "salt", "black pepper"],
+    "steps": ["Sauté onion and garlic until fragrant", "Add mixed vegetables and cook for a few minutes", "Pour in vegetable broth and bring to a boil", "Add herbs, salt, and black pepper", "Simmer until vegetables are tender", "Serve hot"]
+  },
+  {
+    "title": "Chicken Salad",
+    "imageUrl": "https://images.unsplash.com/photo-1601924571125-1e7a1d9e2aaf?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["chicken breast", "lettuce", "tomato", "cucumber", "avocado", "olive oil", "lemon juice", "salt", "black pepper"],
+    "steps": ["Grill chicken breast and slice", "Toss lettuce, tomato, cucumber, and avocado", "Drizzle with olive oil and lemon juice", "Season with salt and black pepper", "Top with sliced chicken", "Serve immediately"]
+  }
+]
+
+ 
